@@ -4,7 +4,7 @@
   "description": "DelBank Test",
   "main": "src/server.js",
   "scripts": {
-    "dev": "tsx watch src/server.ts"
+    "dev": "tsx watch src/server.ts",
   },
   "keywords": [],
   "author": "Luan Kisaki",
