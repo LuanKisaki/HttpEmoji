@@ -1,0 +1,25 @@
+{
+  "name": "delbank",
+  "version": "1.0.0",
+  "description": "DelBank Test",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "tsx watch src/server.ts"
+  },
+  "keywords": [],
+  "author": "Luan Kisaki",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.0",
+    "@types/node": "^20.14.12",
+    "cors": "^2.8.5",
+    "tsx": "^4.16.2",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "delbank": "file:",
+    "express": "^4.19.2"
+  }
+}
